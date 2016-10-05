@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<org.spring.batch.samples.Report>
+		<empId>1234</empId>
+		<empName>Geeta</empName>
+		<desgination>SE</desgination>
+		<project>Secbus</project>
+	</org.spring.batch.samples.Report>
+	<org.spring.batch.samples.Report>
+		<empId>4563</empId>
+		<empName>Heena</empName>
+		<desgination>SE</desgination>
+		<project>Secbus</project>
+	</org.spring.batch.samples.Report>
+</users>
